@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about learning and building project
 ## 🛠️ Technologies & Languages
 I'm currently learning and working with:
 - **Languages:** [HTML5, CSS3, JavaScript]
-- **Technologies & Tools**[React,Next.js,TailwindCSS, Node.js,Express.js,RESTAPIs,Git, Github,Codespaces,VScode,Linux, Commandline]
+- **Technologies&Tools**[React,Next.js,TailwindCSS, Node.js,Express.js,RESTAPIs,Git, Github,Codespaces,VScode,Linux, Commandline]
 - **Databases:** [MongoDB]
 
 ## 📫 How to Reach Me
